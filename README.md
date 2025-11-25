@@ -7,5 +7,9 @@
 - python manage.py runserver
 
 ## Endpoints
-- GET /api/posts/
-- POST /api/posts/
+- GET     /api/posts/
+- POST    /api/posts/
+- GET     /api/posts/<id>/
+- PUT     /api/posts/<id>/
+- PATCH   /api/posts/<id>/
+- DELETE  /api/posts/<id>/
